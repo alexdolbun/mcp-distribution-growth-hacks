@@ -1,0 +1,12 @@
+name,url,monthly_visits_approx,domain_rating_approx,type,notes,do_follow_potential
+Official MCP Registry,https://registry.modelcontextprotocol.io,54000,90,official,"Publish once, others copy",high
+mcpmarket.com,https://mcpmarket.com,81000,,directory,High traffic,medium
+mcpservers.org,https://mcpservers.org,45000,67,directory,Free + paid,medium
+mcp.so,https://mcp.so,18000,72,directory,Check support,medium
+smithery.ai,https://smithery.ai,446000,75,marketplace,CLI integrated,high
+glama.ai,https://glama.ai/mcp,105000,72,directory,Large index,high
+PulseMCP,https://pulsemcp.com,277000,68,directory,Growing,medium
+LobeHub,https://lobehub.com/mcp,,,directory,AI focused,medium
+cursor.directory,https://cursor.directory,,,directory,IDE specific,medium
+GitHub Awesome MCP Servers,https://github.com/punkpeye/awesome-mcp-servers,97k stars,,awesome-list,PR to contribute,high
+Docker Hub MCP,https://hub.docker.com/mcp,,,directory,Container,medium
